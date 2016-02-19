@@ -1,6 +1,6 @@
 #Week 2
 
-##Example Review Questions
+##Review Questions
  
  * "What is local storage. How do you use it? When is it useful?",
  * "How do we maintain state in HTTP?",
